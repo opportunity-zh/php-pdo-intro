@@ -20,9 +20,9 @@
 
     // echo get_include_path(); 
 
-    echo "<h1>Hello, we are starting to work with Databases and PHP PDO!</h1>";
+    // echo "<h1>Hello, we are starting to work with Databases and PHP PDO!</h1>";
 
-    include_once dirname(__DIR__) . '/utils/db.php';
+    // include_once dirname(__DIR__) . '/utils/db.php';
 
 
 
